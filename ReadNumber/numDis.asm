@@ -18,7 +18,7 @@ _start:
 	;read and store the input
 
 	mov rax,3
-	mov rbx,2
+	mov rbx,0
 	mov rcx,num
 	mov rdx,5
 	syscall
