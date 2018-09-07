@@ -137,12 +137,3 @@ exit:
     int 0x21
     MAIN ENDP
 END MAIN
-    
-    
-    
-    
-    
-    
-    
-    
-      
